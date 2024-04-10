@@ -2,11 +2,11 @@
 #
 # Get latest from https://github.com/github/gitignore/blob/main/Unity.gitignore
 #
-[Uu]nremitted [Ll]etters/[Ll]ibrary/
-[Uu]nremitted [Ll]etters/[Tt]emp/
-[Uu]nremitted [Ll]etters/[Oo]bj/
-[Uu]nremitted [Ll]etters/[Bb]uild/
-[Uu]nremitted [Ll]etters/[Bb]uilds/
+# [Uu]nremitted [Ll]etters/[Ll]ibrary/
+# [Uu]nremitted [Ll]etters/[Tt]emp/
+# [Uu]nremitted [Ll]etters/[Oo]bj/
+# [Uu]nremitted [Ll]etters/[Bb]uild/
+# [Uu]nremitted [Ll]etters/[Bb]uilds/
 [Uu]nremitted [Ll]etters/[Ll]ogs/
 [Uu]nremitted [Ll]etters/[Uu]ser[Ss]ettings/
 [Uu]nremitted [Ll]etters/[Ll]ibrary/[Pp]ackageCache/
